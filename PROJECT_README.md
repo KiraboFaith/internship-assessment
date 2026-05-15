@@ -25,7 +25,7 @@ Output displayed in Streamlit UI
 ## Local Setup
 
 ```bash
-git clone https://github.com/<your-github-username>/internship-assessment.git
+git clone https://github.com/KiraboFaith/internship-assessment.git
 cd internship-assessment
 python -m venv venv
 venv\Scripts\activate.bat
